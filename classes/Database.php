@@ -1,8 +1,8 @@
 <?php 
     class Database {
         private $hostname = "localhost";
-        private $username = "root";
-        private $password = "";
+        private $username = "laogw";
+        private $password = "Abc@2022";
         private $database = "laogwdb";
 
         public function dbConnect(){
